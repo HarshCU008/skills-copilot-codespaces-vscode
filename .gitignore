@@ -1,0 +1,16 @@
+# C++ Build artifacts
+*.o
+*.out
+*.exe
+calculator
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
